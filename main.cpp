@@ -1,8 +1,8 @@
 #include<iostream>
 #include<fstream>
 #include<math.h>
-#include</Users/tomaschuaqui/Documents/beamFEM_cpp/Eigen/Eigen/Dense>
-#include</Users/tomaschuaqui/Documents/beamFEM_cpp/Eigen/Eigen/Sparse>
+#include"Eigen/Eigen/Dense"
+#include"Eigen/Eigen/Sparse"
 #include<vector>
 
 #include"mesh_grid.h"
